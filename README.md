@@ -1,2 +1,2 @@
 # Python Movies_Dataset-
-Framework to work with data
+This is a movies dataset analyzed using Python
